@@ -85,13 +85,7 @@ Additional evaluation:
 ### 8. Hyperparameter Tuning
 Performed Randomized Search Cross Validation on XGBoost.
 
-### 9. Explainable AI
-Used SHAP for:
-- Feature importance
-- Global interpretability
-- Local prediction explanations
 
----
 
 ## Project Structure
 
